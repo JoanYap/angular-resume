@@ -1,0 +1,12 @@
+#title-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    display:inline;
+}
+
+button {
+    margin-left: 20px;
+}
